@@ -17,6 +17,7 @@ Conditions
 ArrayList
 HashMap
 Classes and objects
+
 2. Password Strength Checker
 A command-line Java program that checks the strength of a password based on:
 
