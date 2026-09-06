@@ -1,4 +1,4 @@
-# programming
+# programming-easy
 This repository contains the Easy-level programming tasks completed for the Programming domain selection.
 
 1. Expense Tracker
